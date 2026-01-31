@@ -81,4 +81,6 @@ I enjoy building things that make work smoother, smarter, and more efficient.
 ---
 
 ## 🤝 Connect
-**LinkedIn:** https://linkedin.com/in/taiwobukolafalayi
+**LinkedIn:** https://linkedin.com/in/taiwobukolafalayi  
+**GitHub:** https://github.com/Taiwof  
+**Email:** falayitaiwo@gmail.com
